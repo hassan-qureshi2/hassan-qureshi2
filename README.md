@@ -21,6 +21,6 @@
 
 
 
-<div style="display: flex; justify-content:center;">
+<div align="center">
   <img class="img" src="https://streak-stats.demolab.com?user=hassan-jsx"/>
 </div>
