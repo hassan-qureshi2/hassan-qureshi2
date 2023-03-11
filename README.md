@@ -21,4 +21,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hassan-jsx&theme=dark)](https://git.io/streak-stats)
+<div style="display: flex; justify-content:center;">
+  <img class="img" src="https://streak-stats.demolab.com?user=hassan-jsx"/>
+</div>
