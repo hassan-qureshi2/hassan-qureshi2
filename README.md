@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassan Ahmed</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 -   🔭 I’m currently working on **enterprise apps of ReactJS & React Native**
 
--   🌱 I’m currently learning **NodeJS**
-
--   💬 Ask me about **#TypeScript #React #ReactNative**
+-   💬 Ask me about **#TypeScript #React #ReactNative #laravel #Nodejs #cypress #JEST**
 
 -   📫 How to reach me **hassan.jsx@gmail.com**
 
