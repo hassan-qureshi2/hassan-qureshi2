@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassan Ahmed</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
--   🔭 I’m currently working on **enterprise apps of ReactJS & React Native**
+-   🔭 I’m currently working on **enterprise apps of ReactJS, NextJS, ExpressJS, MongoDB, NestJS & React Native**
 
--   💬 Ask me about **#TypeScript #React #ReactNative #laravel #Nodejs #cypress #JEST**
+-   💬 Ask me about **#TypeScript #ReactJS #NextJS #NodeJS #ExpressJS #NestJS #ReactNative #laravel #cypress #JEST**
 
 -   📫 How to reach me **hassan.jsx@gmail.com**
 
