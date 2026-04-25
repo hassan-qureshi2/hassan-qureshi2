@@ -6,7 +6,7 @@ Full-stack engineer for Shopify Plus and Laravel. 20+ Plus stores running my Sho
 
 Melbourne, VIC · Remote · Available for Q3 2026 engagements
 
-[Portfolio](https://hassanahmed.com) · [LinkedIn](https://www.linkedin.com/in/hassan-ahmed2/) · [Email](mailto:hassan.jsx@gmail.com) · [Resume](https://hassanahmed.com/Hassan_Ahmed_Resume.pdf)
+[Portfolio](https://hassanahmed.me) · [LinkedIn](https://www.linkedin.com/in/hassan-ahmed2/) · [Email](mailto:hassan.jsx@gmail.com) · [Resume](https://hassanahmed.me/Hassan_Ahmed_Resume.pdf)
 
 ---
 
@@ -33,7 +33,7 @@ End-to-end ownership — design, build, deploy, support — on production commer
 
 ## Featured work
 
-### [Londinium Espresso — Operations Platform](https://hassanahmed.com/projects/londinium-espresso) · 2022–2026
+### [Londinium Espresso — Operations Platform](https://hassanahmed.me/projects/londinium-espresso) · 2022–2026
 
 Custom Laravel + Inertia/React platform running multi-region storefront, checkout, vendor fulfilment, and accounting from one place. Orders flow checkout → supplier PO → Xero invoice without anyone re-typing them. **180,000+ orders processed · ~6,000 hours of manual Xero entry eliminated · 30+ global suppliers automated.**
 `Laravel · PHP · MySQL · Redis · Inertia · React · TypeScript · Swell · Xero · ShipEngine · Vercel · Docker · Bugsnag`
@@ -136,4 +136,4 @@ A browser-based tool suite that lets gamers diagnose controller and input-device
 
 ## Get in touch
 
-If you run a Shopify Plus or Laravel commerce stack and you want an engineer who ships, supports, and stays accountable for outcomes — [hassanahmed.com](https://hassanahmed.com) or [hassan.jsx@gmail.com](mailto:hassan.jsx@gmail.com).
+If you run a Shopify Plus or Laravel commerce stack and you want an engineer who ships, supports, and stays accountable for outcomes — [hassanahmed.me](https://hassanahmed.me) or [hassan.jsx@gmail.com](mailto:hassan.jsx@gmail.com).
