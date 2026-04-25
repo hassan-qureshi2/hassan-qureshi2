@@ -31,15 +31,6 @@ End-to-end ownership — design, build, deploy, support — on production commer
 | **£10M+**    | trade invoices settled self-serve via custom checkout  |
 | **20+**      | Plus stores running my Functions-based discount engine |
 
-## Featured work
-
-### [Londinium Espresso — Operations Platform](https://hassanahmed.me/projects/londinium-espresso) · 2022–2026
-
-Custom Laravel + Inertia/React platform running multi-region storefront, checkout, vendor fulfilment, and accounting from one place. Orders flow checkout → supplier PO → Xero invoice without anyone re-typing them. **180,000+ orders processed · ~6,000 hours of manual Xero entry eliminated · 30+ global suppliers automated.**
-`Laravel · PHP · MySQL · Redis · Inertia · React · TypeScript · Swell · Xero · ShipEngine · Vercel · Docker · Bugsnag`
-
-### [Londinium Checkout](https://checkout.londiniumespresso.com/) · 2023–2026
-
 Custom Next.js checkout for hand-built espresso machines: multi-parcel international shipping priced per crate, trade invoicing, six payment methods (card, PayPal, Wise, manual transfer, gift card, account credit), four currencies, Twilio phone verification. **£10M+ in trade invoices settled self-serve · ~1.5 fraud cases/month with phone verification.**
 `Next.js · TypeScript · Tailwind · Swell · Twilio · Stripe · PayPal · Wise · Zoho · Supabase · Cypress · Bugsnag`
 
